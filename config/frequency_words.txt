@@ -4,6 +4,10 @@
 论文
 研究
 
+AI
+大模型
+LLMs
+
 DeepSeek
 梁文锋
 
@@ -29,10 +33,18 @@ HarmonyOS
 论文辅导
 论文发表
 论文投稿
+职称评审
 
 SCI
 WOS
 科睿唯安
+nature
+science
+cell
+自然新闻
+科学新闻
+顶刊
+cns
 
 引文
 中科院
@@ -71,6 +83,7 @@ AMD
 google
 gemini
 deepmind
+notebooklm
 
 chatgpt
 Sam Altman
